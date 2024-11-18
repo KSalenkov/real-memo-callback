@@ -1,0 +1,20 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+/examples/todo/node_modules
+/examples/todo/.env
+/examples/posts/node_modules
+/examples/posts/.env
+
+# Editor directories and files
+*.idea
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+# Build
+dist
