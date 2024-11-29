@@ -49,11 +49,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/KSalenkov/react-air-state"
+    "url": "https://github.com/KSalenkov/real-memo-callback"
   },
   "bugs": {
-    "url": "https://github.com/KSalenkov/react-air-state/issues"
+    "url": "https://github.com/KSalenkov/real-memo-callback/issues"
   },
-  "homepage": "https://github.com/KSalenkov/react-air-state",
+  "homepage": "https://github.com/KSalenkov/real-memo-callback",
   "description": ""
 }
