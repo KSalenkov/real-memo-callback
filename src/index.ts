@@ -8,7 +8,7 @@ export const useRealMemoCallback = <T extends Callback>(callback: T, deps: Depen
         callbackRef.current = callback;
     }, deps);
 
-    return useCallback(() => {
+    return useCallback<T>(() => {
         return callbackRef.current();
     }, []);
 };
