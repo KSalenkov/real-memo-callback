@@ -25,7 +25,7 @@ export const FormComponent = () => {
 
     const submit = useRealMemoCallback(() => {
         console.log(value);
-    }, [value]); // the same function reference even when changing dependencies
+    }); // the same function reference even when changing dependencies
 
     return (
             <>
